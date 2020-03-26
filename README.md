@@ -1,4 +1,4 @@
 # 绿守处方
 自用
 <br />
-[点此导入](https://greenify.github.io/Zxlusersjly/rx-green)
+[点此导入](https://greenify.github.io/HankAviator/rx-green)
