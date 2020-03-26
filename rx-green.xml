@@ -13,9 +13,9 @@
 <prescription type="service" class="moai.patch.handle.PatchHideService" sender="any" />
 <prescription type="service" class="moai.patch.handle.PatchService" sender="any" />
 <!-- 高德定位 -->
-<prescription type="service" class="com.amap.api.location.APSService" sender="any" />
+<!-- <prescription type="service" class="com.amap.api.location.APSService" sender="any" /> -->
 <!-- 百度定位 -->
-<prescription type="service" class="com.baidu.location.f" sender="any" />
+<!-- <prescription type="service" class="com.baidu.location.f" sender="any" /> -->
 <!-- 360手机助手检查更新SDK -->
 <prescription type="service" class="com.qihoo.appstore.updatelib.CheckUpdateService" sender="any" /> 
 <!-- 华为检查更新SDK -->
